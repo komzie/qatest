@@ -23,6 +23,5 @@ asd
 kkk
 for iOS client
 for iOS client for iOS clientfor iOS clientfor iOS clientfor iOS clientfor iOS clientfor iOS client
- msg.m_MsgAckType = ENoAckRequired;
-                msg.m_Type = ESystem;
+
                 msg.m_SubType = CCN;
