@@ -28,14 +28,7 @@ xyz
 fdg
 gfh
 fsdjfg
-abc
-dsff
-FCADFSD
-test
-dgsfsf
-dsf
-zxX
-sad
+a
 android
 ttert
 testing from android
